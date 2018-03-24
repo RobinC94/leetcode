@@ -1,7 +1,6 @@
-
 // Source : https://oj.leetcode.com/problems/two-sum/
 // Author : Robin Chen
-// Date   : 2018.3.24
+// Date   : 2017.7.12
 
 /********************************************************************************** 
 *
