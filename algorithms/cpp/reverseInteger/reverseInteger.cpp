@@ -36,5 +36,6 @@ public:
     }
 };
 
-// 运行结果：
-// Accepted     16ms     69.47%
+// Status: Accepted
+// Runtime: 15 ms
+// 98.31%

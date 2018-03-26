@@ -58,5 +58,6 @@ public:
     }
 };
 
-// 运行结果：
-// Accepted	12ms	82.43
+// Status: Accepted
+// Runtime: 12 ms
+// 82.43%
