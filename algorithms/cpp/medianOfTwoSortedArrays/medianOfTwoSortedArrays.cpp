@@ -133,9 +133,9 @@ public:
             int i = (iMin + iMax)/2;
             int j = harf - i;
             if(i < iMax && nums2[j-1] > nums1[i])
-                iMin = iMin+1;
+                iMin = i+1;
             else if(i > iMin && nums1[i-1] > nums2[j])
-                iMax = iMax - 1;
+                iMax = i - 1;
             else{
                 int maxLeft = 0;
                 if(i == 0) maxLeft = nums2[j-1];
@@ -156,5 +156,4 @@ public:
 };
 
 // 运行结果：
-// Accepted		81ms	18.37%
-// ？？？你踏马管这叫标准答案？？？
+// Accepted		71ms	50.74%
