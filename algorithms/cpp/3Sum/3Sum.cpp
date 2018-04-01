@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/3sum/
-// Author : 
-// Date   : 
+// Author : Robin Chen
+// Date   : 2018.4.1
 
 /********************************************************************************** 
 * 
