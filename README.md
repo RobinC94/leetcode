@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-(Notes: "&hearts;" means you need to buy a book from Leetcode)
+A thousnad miles journey is started by taking the first step.
 
 
 | # | Title | Solution | Difficulty |
