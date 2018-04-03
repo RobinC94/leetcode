@@ -33,3 +33,9 @@ A thousnad miles journey is started by taking the first step.
 |69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./algorithms/cpp/sqrt/sqrt.cpp)|Medium|
 |72|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [C++](./algorithms/cpp/editDistance/editDistance.cpp)|Hard|
 |88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [C++](./algorithms/cpp/mergeTwoSortedArray/mergeTwoSortedArray.cpp)|Easy|
+|104|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./algorithms/cpp/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|Easy|
+|118|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| [C++](./algorithms/cpp/pascalTriangle/pascalTriangle.cpp)|Easy|
+|144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./algorithms/cpp/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|Medium|
+
+
+
