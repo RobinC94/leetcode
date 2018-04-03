@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/4sum/
-// Author : Hao Chen
-// Date   : 2014-07-03
+// Author : Robin Chen
+// Date   : 2018
 
 /********************************************************************************** 
 * 
