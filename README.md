@@ -28,6 +28,11 @@ A thousnad miles journey is started by taking the first step.
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [C++](./algorithms/cpp/4Sum/4Sum.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./algorithms/cpp/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp)|Medium|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [C++](./algorithms/cpp/validParentheses/validParentheses.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/cpp/mergeTwoSortedList/mergeTwoSortedList.cpp)|Easy|
+|22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [C++](./algorithms/cpp/generateParentheses/generateParentheses.cpp)|Medium|
+|23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/mergeKSortedLists/mergeKSortedLists.cpp)|Hard|
+|24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./algorithms/cpp/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|
+|25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./algorithms/cpp/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|Hard|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./algorithms/cpp/plusOne/plusOne.cpp)|Easy|
 |67|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./algorithms/cpp/addBinary/addBinary.cpp)|Easy|
 |69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./algorithms/cpp/sqrt/sqrt.cpp)|Easy|
