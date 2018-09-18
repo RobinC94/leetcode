@@ -63,3 +63,30 @@ public:
 // 19.29%
 
 // 莫非这帮变态找一个不重复id也要二分查找的？？？
+
+// 下面这种方法虽然不是最快的，但是其非常符合c++11的风格，对迭代器的使用很是精髓，故收集下
+
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        if (nums.size()==0) return 0;
+        else if (nums.size()==1) {
+            return 1;
+        }
+        auto pos_to_insert = nums.begin()+1; 
+        int last_val = nums[0];
+        for (auto it = nums.begin()+1; it!=nums.end(); it++){
+            if ((*it)!=last_val) {
+                last_val = *it;
+                swap(*pos_to_insert, *it);
+                pos_to_insert++;
+                
+            }
+        }
+        return pos_to_insert -  nums.begin();
+    }
+};
+
+// Status: Accepted
+// Runtime: 24 ms
+// 43.64%
