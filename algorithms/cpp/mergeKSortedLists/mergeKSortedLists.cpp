@@ -1,4 +1,4 @@
-// Source : https://oj.leetcode.com/problems/merge-sorted-array/
+// Source : https://oj.leetcode.com/problems/merge-k-sorted-lists/
 // Author : Robin Chen
 // Date   : 2018.9.15
 

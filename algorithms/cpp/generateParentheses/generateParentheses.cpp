@@ -1,4 +1,4 @@
-// Source : https://oj.leetcode.com/problems/edit-distance/
+// Source : https://oj.leetcode.com/problems/generate-parentheses/
 // Author : Robin Chen
 // Date   : 2018.09.14
 
