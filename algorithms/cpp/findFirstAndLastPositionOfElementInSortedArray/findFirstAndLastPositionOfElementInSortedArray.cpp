@@ -4,23 +4,26 @@
 
 /********************************************************************************** 
 * 
-* Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+* Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
 *
-* Example 1: 
-* Input: "(()"
-* Output: 2
-* Explanation: The longest valid parentheses substring is "()"
+* Your algorithm's runtime complexity must be in the order of O(log n).
 *
+* If the target is not found in the array, return [-1, -1].
+*
+* Example 1:
+* Input: nums = [5,7,7,8,8,10], target = 8
+* Output: [3,4]
+
 * Example 2:
-* Input: ")()())"
-* Output: 4
-* Explanation: The longest valid parentheses substring is "()()"
+* Input: nums = [5,7,7,8,8,10], target = 6
+* Output: [-1,-1]
 *               
 **********************************************************************************/
 
 // 思路
-// 就是二分，把不同的情况理清楚，往左还是往右
-// 事实证明，在每个循环先判断头尾比遇到具体情况再判断头尾要慢
+// 二分，先二分找到目标，再分别二分去找头和尾
+// 有个小细节，在判断边界的时候可以利用++ -- 来规避整除 bug
+// 但是不够快，也没有找到更快的例子
 
 class Solution {
 public:
@@ -57,5 +60,5 @@ public:
 };
 
 // Success
-// Runtime: 4 ms, faster than 69.87% of C++ online submissions for Search in Rotated Sorted Array.
-// Memory Usage: 11.3 MB, less than 6.03% of C++ online submissions for Search in Rotated Sorted Array.
+// Runtime: 16 ms, faster than 18.27% of C++ online submissions for Find First and Last Position of Element in Sorted Array.
+// Memory Usage: 13.8 MB, less than 5.49% of C++ online submissions for Find First and Last Position of Element in Sorted Array.

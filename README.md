@@ -41,7 +41,7 @@ A thousnad miles journey is started by taking the first step.
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [C++](./algorithms/cpp/nextPermutation/nextPermutation.cpp)|Medium|
 |32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [C++](./algorithms/cpp/longestValidParentheses/longestValidParentheses.cpp)|Hard|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./algorithms/cpp/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp)|Hard|
-|34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [C++](./algorithms/cpp/searchForRange/searchForRange.cpp)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](./algorithms/cpp/findFirstAndLastPositionOfElementInSortedArray/findFirstAndLastPositionOfElementInSortedArray.cpp)|Medium|
 |35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [C++](./algorithms/cpp/searchInsertPosition/searchInsertPosition.cpp)|Medium|
 |36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [C++](./algorithms/cpp/validSudoku/validSudoku.cpp)|Easy|
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [C++](./algorithms/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|
