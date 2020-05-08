@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/search-in-rotated-sorted-array
+// https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 // Author : Robin Chen
 // Date   : 2020.05.08
 
