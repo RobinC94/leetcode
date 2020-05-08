@@ -1,4 +1,4 @@
-// Source : https://oj.leetcode.com/problems/3sum/
+// Source : https://leetcode.com/problems/3sum/
 // Author : Robin Chen
 // Date   : 2018.4.1
 

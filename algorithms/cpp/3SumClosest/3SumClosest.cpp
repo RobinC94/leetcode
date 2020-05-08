@@ -1,4 +1,4 @@
-// Source : https://oj.leetcode.com/problems/3sum-closest/
+// Source : https://leetcode.com/problems/3sum-closest/
 // Author : Robin Chen
 // Date   : 2018.4.1
 
