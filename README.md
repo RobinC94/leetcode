@@ -48,6 +48,7 @@ A thousnad miles journey is started by taking the first step.
 |38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./algorithms/java/src/countAndSay/CountAndSay.java)|Easy|
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./algorithms/cpp/combinationSum/combinationSum.cpp)|Medium|
 |40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./algorithms/cpp/combinationSum/combinationSum.II.cpp)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./algorithms/cpp/powx-n/powx-n.cpp)|Medium|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./algorithms/cpp/plusOne/plusOne.cpp)|Easy|
 |67|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./algorithms/cpp/addBinary/addBinary.cpp)|Easy|
 |69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./algorithms/cpp/sqrt/sqrt.cpp)|Easy|
