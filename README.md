@@ -48,8 +48,8 @@ A thousnad miles journey is started by taking the first step.
 |38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [C++](./algorithms/java/src/countAndSay/CountAndSay.java)|Easy|
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./algorithms/cpp/combinationSum/combinationSum.cpp)|Medium|
 |40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./algorithms/cpp/combinationSum/combinationSum.II.cpp)|Medium|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./algorithms/cpp/powx-n/powx-n.cpp)|Medium|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./algorithms/cpp/unique-paths-ii/unique-paths-ii.cpp)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./algorithms/cpp/powxN/powxN.cpp)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./algorithms/cpp/uniquePaths/uniquePaths.II.cpp)|Medium|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./algorithms/cpp/plusOne/plusOne.cpp)|Easy|
 |67|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./algorithms/cpp/addBinary/addBinary.cpp)|Easy|
 |69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [C++](./algorithms/cpp/sqrt/sqrt.cpp)|Easy|
@@ -58,9 +58,14 @@ A thousnad miles journey is started by taking the first step.
 |104|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./algorithms/cpp/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.cpp)|Easy|
 |118|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)| [C++](./algorithms/cpp/pascalTriangle/pascalTriangle.cpp)|Easy|
 |144|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./algorithms/cpp/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|Medium|
-|152|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./algorithms/cpp/maximum-product-subarray/maximum-product-subarray.cpp)|Medium|
+|152|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./algorithms/cpp/maximumProductSubarray/maximumProductSubarray.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/cpp/twoSum/twoSum.II.cpp)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/houseRobber/houseRobber.cpp)|Easy|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [C++](./algorithms/cpp/removeDuplicateLetters/removeDuplicateLetters.cpp)|Hard|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/) | [C++](./algorithms/cpp/nthDigit/nthDigit.cpp)|Medium|
+|479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [C++](./algorithms/cpp/largestPalindromeProduct/largestPalindromeProduct.cpp)|Hard|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](./algorithms/cpp/mergeTwoBinaryTrees/mergeTwoBinaryTrees.cpp)|Easy|
+|665|[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/houseRobber/houseRobber.cpp)|Easy|
 
 
 
