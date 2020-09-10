@@ -65,7 +65,7 @@ A thousnad miles journey is started by taking the first step.
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/) | [C++](./algorithms/cpp/nthDigit/nthDigit.cpp)|Medium|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [C++](./algorithms/cpp/largestPalindromeProduct/largestPalindromeProduct.cpp)|Hard|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [C++](./algorithms/cpp/mergeTwoBinaryTrees/mergeTwoBinaryTrees.cpp)|Easy|
-|665|[House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/houseRobber/houseRobber.cpp)|Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./algorithms/cpp/nonDecreasingArray/nonDecreasingArray.cpp)|Easy|
 
 
 
