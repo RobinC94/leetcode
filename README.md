@@ -49,6 +49,7 @@ A thousnad miles journey is started by taking the first step.
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [C++](./algorithms/cpp/combinationSum/combinationSum.cpp)|Medium|
 |40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [C++](./algorithms/cpp/combinationSum/combinationSum.II.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./algorithms/cpp/powxN/powxN.cpp)|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./algorithms/cpp/rotateList/rotateList.cpp)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./algorithms/cpp/uniquePaths/uniquePaths.II.cpp)|Medium|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [C++](./algorithms/cpp/plusOne/plusOne.cpp)|Easy|
 |67|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [C++](./algorithms/cpp/addBinary/addBinary.cpp)|Easy|
